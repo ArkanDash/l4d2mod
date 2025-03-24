@@ -1,0 +1,53 @@
+﻿"Phrases"
+{
+	"Survivors"
+	{
+		"ru"		"Крепыши"
+		"en"		"Survivors"
+	}
+	"Bot(s)"
+	{
+		"ru"		"ботов"
+		"en"		"Bots"
+	}
+	"INCAP"
+	{
+		"ru"		"УПАЛ"
+		"en"		"INCAP"
+	}
+	"B/R"
+	{
+		"ru"		"Ч/К"
+		"en"		"B/R"
+	}
+	"B/W"
+	{
+		"ru"		"Ч/Б"
+		"en"		"B/W"
+	}
+	"DEAD"
+	{
+		"ru"		"СДОХ"
+		"en"		"DEAD"
+	}
+	"Infected"
+	{
+		"ru"		"Зомбари"
+		"en"		"Infected"
+	}
+	"DOWN"
+	{
+		"ru"		"УПАЛ"
+		"en"		"DOWN"
+	}
+	"GHOST"
+	{
+		"ru"		"ПРИЗРАК"
+		"en"		"GHOST"
+	}
+	"Spectators"
+	{
+		"ru"		"Зрители"
+		"en"		"Spectators"
+	}
+}
